@@ -12,6 +12,7 @@ __pycache__/
 tamago_save.json
 .DS_Store
 Thumbs.db
+.claude/
 
 # Raster and vector images
 *.png
